@@ -7,7 +7,7 @@ I'm a software engineer, usually working on OpenVR drivers, some weird lib, some
 * [HoboVR-Labs/lazy-sockets](https://github.com/HoboVR-Labs/lazy-sockets) - Thin cross-platform socket wrapper for C++
 * [okawo80085/openvr]() - Patched for Linux version of OpenVR
 * [okawo80085/lose]() - Data handling library optimized for huge datasets and low ram usage
-* And a few other VR projects that are open yet :)
+* And a few other VR projects that are not open yet :)
 
 ### 🤔 I’m looking for help with
 I'm currently looking for help/contributors with hobo_vr's driver, from all of the contributors in the project no one apart from me dares to touch the driver. Working as a one man army is great and all, but I need new eyes on this thing, I'm not perfect, I'm missing bugs and generally not fast enough on the version release rate, most of which is caused by the lack of review in driver PRs(not meant as an insult to other contributors, driver development is complicated from many points of view and is complicated even more by the sheer amount of devices this driver needs to support).
