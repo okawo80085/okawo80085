@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm a software engineer, usually working on OpenVR drivers, some weird lib, some small app, finding some new horrible way to use python or something Linux related :)
+I'm an embebed developer, usually working on OpenVR drivers, some weird lib, some small app, finding some new horrible way to use python or something Linux related in my free time :)
 
-### 🔭 I’m currently working on
+### 🔭 My current projects
 * [HoboVR-Labs/hobo_vr](https://github.com/HoboVR-Labs/hobo_vr) - Bundle of prototyping tools and an OpenVR driver
 * [HoboVR-Labs/lazy-sockets](https://github.com/HoboVR-Labs/lazy-sockets) - Thin cross-platform socket wrapper for C++
 * [okawo80085/openvr](https://github.com/okawo80085/openvr) - Patched for Linux version of OpenVR
