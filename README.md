@@ -22,7 +22,5 @@ Email: oleg.vorobiov@somainline.org or oleg.vorobiov@hobovrlabs.org
 
 Discord: `okawo#0901`
 
-Telegram: [`+380630799538`](tel:+380630799538)
-
 ### ⚡ Fun fact
 The number of applications that still use the deprecated OpenVR APIs is at the same time concerning and showing how much people still rely on obsolete examples :/
