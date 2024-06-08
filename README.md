@@ -1,7 +1,3 @@
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -1000; position: fixed; top: 0; left: 0; height: 100vh; object-fit: contain; background-size: contain; width: 100vw; opacity: 0.1; background: url('https://github.com/okawo80085/okawo80085/blob/main/assets/neco-arc-lumina.gif?raw=true'); display: block;]{x0000}$}
-```
-
 Something something embdedded dev, something something automotive, something something Ukrainian volunteer, something something cronicly tired and sleep deprived
 
 ~~shit~~ stuff im working on
