@@ -27,7 +27,7 @@ dont ask me anything, im tired enough as it is
 
 all of this stuff
 
-Email: oleg.vorobiov@somainline.org or oleg.vorobiov@hobovrlabs.org
+Email: oleh.vorobiov@hobovrlabs.org
 
 Discord: `okawo#0901`
 
