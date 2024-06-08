@@ -1,3 +1,7 @@
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -1000; position: fixed; top: 0; left: 0; height: 100vh; object-fit: contain; background-size: contain; width: 100vw; opacity: 0.1; background: url('https://github.com/okawo80085/okawo80085/blob/main/assets/neco-arc-lumina.gif?raw=true'); display: block;]{x0000}$}
+```
+
 Something something embdedded dev, something something automotive, something something Ukrainian volunteer, something something cronicly tired and sleep deprived
 
 ~~shit~~ stuff im working on
@@ -18,6 +22,9 @@ Something something embdedded dev, something something automotive, something som
 * [okawo80085/lose](https://github.com/okawo80085/lose) - Python data handling library optimized for huge datasets and low ram usage
 
 
+dont ask me anything, im tired enough as it is
+
+
 all of this stuff
 
 Email: oleg.vorobiov@somainline.org or oleg.vorobiov@hobovrlabs.org
@@ -26,5 +33,4 @@ Discord: `okawo#0901`
 
 yuh
 
-```math
-\ce{$\unicode[background-color: pink;]{x0000}$}
+
