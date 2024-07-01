@@ -1,4 +1,4 @@
-*curse you m*crosoft for ruining all the fun on this website*
+*curse you m\*crosoft for ruining all the fun on this website*
 
 Something something embdedded dev, something something automotive, something something Ukrainian volunteer, something something cronicly tired and sleep deprived
 
