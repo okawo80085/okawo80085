@@ -1,8 +1,11 @@
-*curse you m\*crosoft for ruining all the fun on this website*
+## meh
 
 Something something embdedded dev, something something automotive, something something Ukrainian volunteer, something something cronicly tired and sleep deprived
 
-~~shit~~ stuff im working on
+### for those poor souls that are strugling to setup clangd for with *non self contained* projects
+* [learn how to add your shit](https://gist.github.com/okawo80085/8d270a04d38beb89039d59e397420def)
+
+### ~~shit~~ stuff im working on
 * [redacted]
 * [redacted]
 * [redacted]
@@ -27,8 +30,4 @@ all of this stuff
 
 Email: oleh.vorobiov@hobovrlabs.org
 
-Discord: `okawo#0901`
-
 yuh
-
-
